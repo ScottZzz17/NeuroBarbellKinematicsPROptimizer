@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  personaltrainer:
+    build: .
+    container_name: personaltrainer_app
+    ports:
+      - "5000:5000"  # Modify or remove if you don't need port mapping
+    volumes:
+      - .:/app      # Optional: maps your current directory into the container
