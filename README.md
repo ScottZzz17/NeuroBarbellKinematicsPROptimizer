@@ -1,6 +1,6 @@
-# PersonalTrainer
+# Neuro Barbell Kinematics PROptimizer
 
-PersonalTrainer is a cutting-edge project that analyzes bench press performance using computer vision and biomechanics. It tracks barbell kinematics (position, velocity, and acceleration) to calculate work done and power output. The project is designed to evolve into an AI-powered workout advisor that suggests training programs to help users improve their personal records (PRs).
+Neuro Barbell Kinematics PROptimizer (PersonalTrainer) is a cutting-edge project that analyzes bench press performance using computer vision and biomechanics. It tracks barbell kinematics (position, velocity, and acceleration) to calculate work done and power output. The project is designed to evolve into an AI-powered workout advisor that suggests training programs to help users improve their personal records (PRs).
 
 ## Table of Contents
 
